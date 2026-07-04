@@ -1,0 +1,12 @@
+CMPS151,Programming Concepts,3
+CMPS200,Computer Ethics,1
+CMPS205,Discrete Structures,3
+CMPS251,Object Oriented Programming,4
+CMPE263,Computer Architecture and Organization I,3
+CMPS303,Data Structures,4
+CMPS310,Software Engineering,4
+CMPS323,Design and Analysis of Algorithms,3
+CMPS351,Fundamentals of Database Systems,4
+CMPS350,Web Development Fundamentals,3
+CMPS355,Data Communication and Computer Network,4
+CMPS405,Operating Systems,4
