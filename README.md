@@ -16,9 +16,3 @@ A console-based application developed using Python to manage students, courses, 
 * Python
 * File Handling
 * Lists and Functions
-
-## How to Run
-
-```bash
-python project.py
-```
